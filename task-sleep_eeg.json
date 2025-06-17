@@ -1,0 +1,10 @@
+{
+    "TaskName": "sleep",
+    "TaskDescription": "Continuous EEG recording with manual scoring, that includes both wake and sleep periods(includes both dark and light phases).",
+    "EEGReference": "n/a",
+    "SamplingFrequency": 128,
+    "PowerLineFrequency": "n/a",
+    "SoftwareFilters": "n/a",
+    "EpochLength": 4
+}
+

@@ -1,0 +1,4 @@
+name	type	units
+EEG1	EEG	V
+EEG2	EEG	V
+EMG	EMG	V
