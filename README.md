@@ -1,6 +1,13 @@
 # Mouse Sleep Staging Validation dataset (MSSV)
 
-This dataset contains EEG recordings with sleep scores from 92 healthy mice. The recordings and sleep scores were collected from five different labs.
+This dataset contains EEG recordings with sleep scores from 92 healthy mice. The recordings and sleep scores were collected from five different labs:
+
+- Department of Biomedical and Neuromotor Sciences, Università di Bologna.
+- Center for Translational Neuroscience, University of Copenhagen, Denmark.
+- Department of Neuroscience, University of Copenhagen, Denmark.
+- Zentrum für Experimentelle Neurologie, Department of Neurology, Inselspital University Hospital Bern, Bern, Switzerland.
+- Lyon Neuroscience Research Center, Lyon, France.
+
 
 ## Overview
 
