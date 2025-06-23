@@ -1,6 +1,0 @@
-lab	channels
-lab_1	['EEG1', 'EMG']
-lab_4	['EEG1', 'EMG']
-lab_3	['EEG1', 'EEG2', 'EMG']
-lab_2	['EEG1', 'EEG2', 'EEG3', 'EEG4', 'EMG']
-lab_5	['EEG1', 'EEG2', 'EMG']
