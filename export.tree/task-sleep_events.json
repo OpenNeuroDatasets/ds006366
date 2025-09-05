@@ -1,0 +1,11 @@
+{
+    "stage": {
+        "Description": "Manual sleep scoring",
+        "Levels": {
+            "1": "Wake",
+            "2": "NREM",
+            "3": "REM",
+            "4": "Artifact"
+        }
+    }
+}
